@@ -60,4 +60,5 @@ jobs:
           name: universal-ai-release-apk
           path: app/build/outputs/apk/release/app-release.apk
 
+
           
